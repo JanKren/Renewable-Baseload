@@ -1,0 +1,7 @@
+source,severity,threshold_gw,n_events,total_hours,max_duration_hours
+wind,severe,5.866725782241761,0,0,0
+wind,moderate,11.733451564483522,5,14,4
+wind,mild,17.60017734672528,52,223,15
+combined,severe,7.282914109341278,0,0,0
+combined,moderate,14.565828218682556,3,11,5
+combined,mild,21.84874232802383,105,556,15

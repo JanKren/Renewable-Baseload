@@ -1,0 +1,22 @@
+
+WIND + SOLAR COMBINED ANALYSIS - SUMMARY FOR PAPER
+===================================================
+
+Key Finding:
+Adding solar PV to the European wind portfolio increases the guaranteed
+baseload floor by 61% on average (range 11-106% across 2015-2024).
+
+2024 Results (wind: 29, solar: 25, 8,783 hours):
+- Wind-only baseload floor: 10.0 GW
+- Combined (wind+solar) baseload floor: 16.7 GW
+- Improvement: +6.7 GW (+67%)
+- Wind-solar correlation: -0.33
+
+The negative correlation (-0.26 average) indicates complementarity:
+periods of low wind tend to coincide with elevated solar production.
+
+Data Limitation:
+ENTSO-E Transparency Platform captures 83% of official EU solar
+generation (2023). The primary gap is Netherlands, where distributed rooftop
+solar (~80% of 24 GW installed) is not reported to the TSO. Our combined
+baseload estimates are therefore conservative.

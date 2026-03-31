@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# Compiled PDFs (keep figure PDFs, exclude compiled paper PDFs)
+CorrWindPaper_NatComm.pdf
+CorrWindPaper_NatComm_SN.pdf
+CoverLetter_NatureComm_v3.pdf
+SupplementaryInformation.pdf
+
+# Data files are large — download separately from ENTSO-E / Elexon
+Data/Wind/*.csv
+Data/Solar/*.csv
+
+# ERA5 data (too large, re-downloadable)
+Data/ERA5/
+
+# Claude/Cowork session files
+.claude/
+CLAUDE.md
+
+# Temp files
+*.tmp.*
+
+# Reviewer annotated PDFs (internal)
+CorrWindPaper_NatComm_IT.pdf
+CorrWindPaper_NatComm_SN_IT.pdf
+CorrWindPaper_NatComm_v2_BZ.pdf
+SupplementaryInformation_v2_BZ.pdf
+
+# Internal review/translation files
+*_SLO.tex
+*_SLO.md
+annotations_extracted.json
+extract_annotations.py
+ANNOTATIONS_SUMMARY.txt
+EXTRACTION_QUICK_REFERENCE.txt
+EXTRACTION_REPORT.txt
+INDEX_ANNOTATION_EXTRACTION.txt
+REVIEWER_FEEDBACK_ACTIONABLE.md
+REVIEWER_FEEDBACK_ACTIONABLE_SLO.md
+SCIENTIFIC_REVIEW.md
+SCIENTIFIC_REVIEW_SLO.md
+changes_summary_v3.md
+email_revision_summary.md
+email_revision_summary_SLO.md
+README_SLO.md

@@ -1,0 +1,4 @@
+severity,threshold_fraction,n_events,total_hours,max_duration_hours,max_duration_days,total_deficit_twh
+severe,0.1,0,0,0,0.0,0.0
+moderate,0.2,23,48,5,0.20833333333333334,0.03463671195160779
+mild,0.3,183,835,17,0.7083333333333334,1.5376206905337795
